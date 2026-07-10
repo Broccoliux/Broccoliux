@@ -79,8 +79,7 @@ class NabeelAhmed:
 
 <div align="center">
 
-<img align="left" height="180" src="https://github-readme-stats-Broccoliux.vercel.app/api/top-langs/?username=Broccoliux&layout=compact&theme=github_dark_dimmed&langs_count=10&hide=c"> 
-<img align="center" height="180" src="https://github-readme-stats-broccoliux.vercel.app/api?username=broccoliux&show_icons=true&theme=github_dark_dimmed">
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Broccoliux&theme=chartreuse-dark&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=c9d1d9)
 

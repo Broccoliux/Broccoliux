@@ -79,7 +79,7 @@ class NabeelAhmed:
 
 <div align="center">
 
-
+[![Anurag's GitHub stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Broccoliux&theme=chartreuse-dark&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=c9d1d9)
 

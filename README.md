@@ -61,15 +61,6 @@ class NabeelAhmed:
 ### 🟡  [`Broccoli-board`](https://github.com/fussdeek-del/Broccoli-board)
 > 84-key wireless mechanical keyboard custom black PCB, hot-swap switches, per-key WS2812B RGB, nice!nano V2 BLE, ZMK firmware, 3D-printed tray case with 804050 LiPo. Full KiCad pipeline to JLCPCB Gerbers.
 
-### 🟡 [`ai-audio-feed-extension`](https://github.com/fussdeek-del/ai-audio-feed-extension)
-> Nobody reads long-form feeds. This browser extension converts them into AI-narrated audio on the fly.
-
-### 🔵 [`ARIA`](https://github.com/fussdeek-del/ARIA)
-> Personal AI assistant with full system automation hooks. Does what I tell it to.
-
-### 🔵 [`Broccoli--board-zmk`](https://github.com/fussdeek-del/Broccoli--board-zmk)
-> ZMK firmware config for the Broccoli Board custom DTS, keymap, RGB underglow, compiled via GitHub Actions CI.
-
 ---
 
 ## `> top --github-stats`

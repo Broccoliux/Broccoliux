@@ -59,6 +59,9 @@ class NabeelAhmed:
 ### 🟡  [`Broccoli-board`](https://github.com/fussdeek-del/Broccoli-board)
 > 84-key wireless mechanical keyboard custom black PCB, hot-swap switches, per-key WS2812B RGB, nice!nano V2 BLE, ZMK firmware, 3D-printed tray case with 804050 LiPo. Full KiCad pipeline to JLCPCB Gerbers.
 
+### 🟢 
+> OS (oprating system)
+
 ---
 
 ## `> top --github-stats`

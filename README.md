@@ -33,6 +33,7 @@ class NabeelAhmed:
     currently_building = [
         "Broccoli Board  — 84-key wireless mechanical keyboard (nice!nano V2 + ZMK + per-key RGB)",
         "Flipper Black   — AI-powered Flipper Zero clone (ESP32-S3 + Kendryte K210)",
+        "OS - AI based OS
     ]
 
     domains = [

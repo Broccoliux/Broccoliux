@@ -13,7 +13,7 @@ $$$$$$$  |$$ |  $$ | $$$$$$  |\$$$$$$  |\$$$$$$  | $$$$$$  |$$$$$$$$\ $$$$$$\
                                                                                                                                                         
 ```
 
-**`fussdeek-del`** · AI Engineer · Hardware Builder · Giga Chad · 
+**`fussdeek-del`** · AI Engineer · Hardware Builder · Giga Chad 
 
 [![GitHub followers](https://img.shields.io/github/followers/Broccoliux?style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github)](https://github.com/Broccoliux)
 [![Profile views](https://komarev.com/ghpvc/?username=Broccoliux&style=for-the-badge&color=00ff41&labelColor=0d1117)](https://github.com/Broccoliux)
@@ -27,7 +27,7 @@ $$$$$$$  |$$ |  $$ | $$$$$$  |\$$$$$$  |\$$$$$$  | $$$$$$  |$$$$$$$$\ $$$$$$\
 ```python
 class NabeelAhmed:
     name     = "Broccoli 🥦"
-    alias    = "[Broccoliuxl/Broccoli] 🥦"
+    alias    = "[Broccoliux/Broccoli] 🥦"
     location = "Punjab, Pakistan 🇵🇰"
 
     currently_building = [

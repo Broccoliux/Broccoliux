@@ -43,7 +43,6 @@ class NabeelAhmed:
         "3D Modeling & Enclosure Design (Fusion 360, FreeCAD)",
         "Full-Stack Web Dev (React, Node, Netlify, Railway)",
         "Electronics Design · Hardware Engineering",
-        "SaaS · Automation · n8n Workflows",
         "Browser Extensions · Desktop Tools",
     ]
 
